@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ghaed Alnasser!
 
-<!--
-**ghaedalnaser/ghaedalnaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **backend developer** on a mission to master full-stack web development. Currently focused on building **scalable back-end systems**, with an active journey into **front-end development**.
 
-Here are some ideas to get you started:
+---
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ **Backend Development**  
+Node.js, TypeScript, Express.js, Nest.js, REST APIs, JWT, OAuth2
+
+✅ **Databases**  
+PostgreSQL, MySQL, MongoDB, Redis
+
+✅ **Tools & Utilities**  
+Docker, Git, GitHub, Postman, pgAdmin, MongoDB Compass
+
+✅ **Currently Learning (Front-End)**  
+React.js, Modern UI/UX principles
+
+---
+
+## 🌟 Featured Projects
+
+* ✅ **E-commerce Platform** — Scalable back-end with role-based access and optimized database queries.
+* ✅ **Car Shop Management System** — Secure back-end system for order and user management.
+* ✅ **Online Learning Platform** — Full-featured LMS with payment integration and advanced user roles.
+
+Check out my projects here: [GitHub Projects](https://github.com/Ghaedalnaser)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced back-end architecture (Microservices, Event-Driven Systems, AWS ....)
+* Front-end development with React.js
+* Full-stack application design
+* Cloud fundamentals and Docker best practices
+* Clean Code & System Design Patterns
+
+---
+
+## 📫 How to reach me
+
+* Email: [eng.ghaedalnasser@gmail.com](mailto:eng.ghaedalnasser@gmail.com)
+* LinkedIn: [Ghaed Alnasser](https://www.linkedin.com/in/ghaed-alnasser-8061142b8)
+
+---
+
+Thank you for visiting my profile! 🚀 Let’s build something meaningful together.
