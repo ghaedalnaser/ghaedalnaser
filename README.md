@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **backend developer** on a mission to master
 ## 🛠️ Skills
 
 ✅ **Backend Development**  
-Node.js, TypeScript, Express.js, Nest.js, REST APIs, JWT, OAuth2
+Node.js, TypeScript ,JavaScript, Express.js, Nest.js, REST APIs, JWT, OAuth2
 
 ✅ **Databases**  
 PostgreSQL, MySQL, MongoDB, Redis
